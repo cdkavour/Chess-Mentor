@@ -126,6 +126,14 @@ img {
     font-family: Didot, serif;
 }
 
+.bio p {
+    font-size: 110%;
+    line-height: 25px;
+    margin: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 #intro {
     color: #008080;
     text-align: center;
