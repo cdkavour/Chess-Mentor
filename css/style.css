@@ -107,13 +107,12 @@ img {
 .booking {
     text-align: center;
     font-size: 125%;
-    font-family: Didot, serif;
+    font-family: Verdana;
 }
 
 .bio {
     text-align: center;
-    font-size: 125%;
-    font-family: Didot, serif;
+    font-family: Verdana;
 }
 
 .bio p {
