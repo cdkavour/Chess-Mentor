@@ -97,8 +97,7 @@ img {
 }
 
 .Images {
-    display: flex;
-    justify-content: center;
+    display: inline-block;
     margin: auto;
 }
 
