@@ -58,10 +58,11 @@ header h1 {
     padding: 20px;
     color: #808080;
     font-size: 200%;
+    opacity: 100%;
 }
 
 h1 {
-	color: #800000;
+    color: #800000;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 150%;
@@ -82,7 +83,7 @@ nav a {
 }
 nav a:hover {
     opacity: 100%;
-    border: 2px solid #000000;
+    border: 2px solid #800000;
 }
 nav a:focus {
     color: #000080;
