@@ -45,7 +45,7 @@ header {
     background-color: #0E4534;
     background-size: cover;
     text-align: center;
-    padding: 10px;
+    padding: 40px;
 }
 
 header h1 {
@@ -79,7 +79,7 @@ nav a:hover {
     opacity: 100%;
 }
 nav a:active {
-    color: #000080;
+    color: #0E4534;
 }
 
 img {
