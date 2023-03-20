@@ -42,7 +42,7 @@ header {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-color: #00261C;
+    background-color: #0E4534;
     background-size: cover;
     text-align: center;
     padding: 10px;
@@ -51,7 +51,7 @@ header {
 header h1 {
     font-style: italic;
     padding: 20px;
-    color: #808080;
+    color: #FFFFFF;
     font-size: 200%;
     opacity: 100%;
 }
@@ -79,11 +79,11 @@ nav a:hover {
     opacity: 100%;
     border: 2px solid #000080;
 }
-nav a:focus {
-    color: #000080;
-}
+/* nav a:focus {
+    color: #0E4534;
+} */
 nav a:active {
-    color: #000080;
+    color: #0E4534;
 }
 
 img {
