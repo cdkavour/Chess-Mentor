@@ -138,10 +138,11 @@ img {
     color: #808080;
     text-align: center;
     display: inline-block;
-    padding-left: 200px;
+    margin: auto;
+/*     padding-left: 200px;
     padding-right: 300px;
     padding-top: 10px;
-    padding-bottom: 25px;
+    padding-bottom: 25px; */
 }
 
 /*#intro:h1 {
@@ -153,8 +154,8 @@ img {
     text-align: center;
     display: inline-block;
     margin: auto;
-    padding-left: 150px;
+/*     padding-left: 150px;
     padding-right: 275px;
     padding-top: 10px;
-    padding-bottom: 25px;
+    padding-bottom: 25px; */
 }
