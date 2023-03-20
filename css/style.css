@@ -77,11 +77,7 @@ nav a {
 }
 nav a:hover {
     opacity: 100%;
-    border: 2px solid #000080;
 }
-/* nav a:focus {
-    color: #0E4534;
-} */
 nav a:active {
     color: #0E4534;
 }
