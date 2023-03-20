@@ -71,8 +71,7 @@ nav a {
     display: inline-block;
     text-decoration: none;
     opacity: 75%;
-
-  	font-weight: bold;
+    font-weight: bold;
     border-radius: 5px;
     /*color: #88DD00;*/
     color: #FFFFFF;
@@ -85,10 +84,8 @@ nav a:hover {
     opacity: 100%;
     border: 2px solid #000000;
 }
-
 nav a:focus {
     color: #000080;
-
 }
 nav a:active {
     color: #000080;
@@ -106,12 +103,14 @@ img {
 }
 
 .banner {
-	display: inline-block;
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
 
 .ThrowingPieces {
-	display: flex;
-	justify-content: center;
+    display: flex;
+    justify-content: center;
     margin: auto;
 }
 
